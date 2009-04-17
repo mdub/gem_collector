@@ -16,3 +16,10 @@ Assuming you have all your "gem" commands in a file, running
     GemCollector.load("file_containing_gem_requirements.rb") 
 
 will install any missing gems.
+
+## Disclaimer
+
+GemCollector does not:
+
+* feed starving orphans
+* do laundry
