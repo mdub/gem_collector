@@ -1,6 +1,6 @@
 # GemCollector: simple installation and activation
 
-[RubyGems](http://rubygems.org/) provides mechanism for declaring dependencies on gems, e.g.
+[RubyGems](http://rubygems.org/) provides a nice DSL for declaring dependencies on gems, e.g.
 
     gem "rspec", "1.1.12"
     gem "rcov", ">= 0.8.1"
